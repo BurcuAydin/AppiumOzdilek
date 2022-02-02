@@ -1,1 +1,1 @@
-# Ozdilekteyim mobil app için test otomasyon
+# Ozdilekteyim mobil test otomasyon
